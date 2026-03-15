@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+מודל ייעוץ 720 מעלות ייחודי המשלב אסטרטגיה עסקית ושיווקית מלאה. יועץ שיווקי מוביל לעסקים בצמיחה וסטארטאפים. קבל החלטות נכונות, בצע ביעילות, השג תוצאות.
+
+### מודל 720 מעלות
+https://example.com/model
+גלה את מודל 720 מעלות הייחודי: שילוב של אסטרטגיה עסקית 360 מעלות ואסטרטגיה שיווקית 360 מעלות. מתודולוגיה מוכחת לצמיחה עסקית מתמשכת ותוצאות מדידות.
+
+### מקרי בוחן
+https://example.com/case-studies
+צפה בתוצאות אמיתיות של עסקים וסטארטאפים שהשיגו פריצת דרך עם מודל 720 מעלות. מקרי בוחן מפורטים, נתונים קשיחים והצלחות מוכחות של יועץ שיווק מוביל.
+
+### צור קשר
+https://example.com/contact
+מוכן לקפיצת מדרגה? קבע פגישת ייעוץ אסטרטגית עם יועץ שיווק ואסטרטגיה עסקית מוביל. נבנה יחד תוכנית פעולה ממוקדת תוצאות שתוביל את העסק שלך להצלחה.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
